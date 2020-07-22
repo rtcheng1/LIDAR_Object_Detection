@@ -1,5 +1,8 @@
 # SURP_2020
 
+Barebone installation of ROS on Raspberry Pi:
+http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi
+
 Tutorial to install ROS on Raspberry Pi 4:
 https://www.instructables.com/id/ROS-Melodic-on-Raspberry-Pi-4-RPLIDAR/
 
