@@ -26,7 +26,7 @@ http://wiki.ros.org/turtlesim#turtlesim_node
 http://wiki.ros.org/turtlesim/Tutorials
 
 What is TurtleSim?:
-TurtleSim is a tool made to teach ROS and ROS packages. Some of the tutorials 
+TurtleSim is a tool made to teach ROS and ROS packages
 
 Current hardware being utilized:
 
