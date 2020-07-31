@@ -29,14 +29,19 @@ What is TurtleSim?:
 TurtleSim is a tool made to teach ROS and ROS packages. Some of the tutorials 
 
 Current hardware being utilized:
+
 -Raspberry Pi 4 Model B
+
 -Robopeak RPLiDAR AM1-R3
 
 Overall Goal(s):
 Create an easy introduction/tutorial for the utilization of affordable LiDAR setups for beginners to be able to reasearch into or easily work on custom individual LiDAR setup designs in regards to extensions, add-ons, software, hardware, etc.
 
 Supplementary Goal(s):
+
 -Beam steering with LiDAR
+
 -Adaptive filtering for improving object detection
+
 -Triangulation using LiDAR
 
