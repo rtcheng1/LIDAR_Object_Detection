@@ -16,12 +16,14 @@ What is ROS?:
 
 Robot Operating System, or ROS, is not a operating system contrary to belief. Some people refer to it as a robotics middleware or a firmware since it interacts with whatever operating system is being used 
 
+
 RVIZ Tutorial:
 http://wiki.ros.org/rviz
 
 What is RVIZ?:
 
 RVIZ is a 3D visualization tool that is supplemental to ROS applications. RVIZ is able to provide a view of a robot model, acquire data from sensors that are integrated into the system, and represent the acquired data. Sensors from devices that can capture 2D and 3D data.
+
 
 TurtleSim tutorial:
 http://wiki.ros.org/turtlesim#turtlesim_node
@@ -30,6 +32,7 @@ http://wiki.ros.org/turtlesim/Tutorials
 What is TurtleSim?:
 
 TurtleSim is a tool made to teach ROS and ROS packages
+
 
 Current hardware being utilized:
 
