@@ -27,6 +27,7 @@ RVIZ is a 3D visualization tool that is supplemental to ROS applications. RVIZ i
 
 TurtleSim tutorial:
 http://wiki.ros.org/turtlesim#turtlesim_node
+
 http://wiki.ros.org/turtlesim/Tutorials
 
 What is TurtleSim?:
