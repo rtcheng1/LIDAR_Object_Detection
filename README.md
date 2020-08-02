@@ -1,12 +1,15 @@
 # SURP_2020
 
 Barebone installation of ROS on Raspberry Pi:
+
 http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi
 
 Tutorial to install ROS on Raspberry Pi 4:
+
 https://www.instructables.com/id/ROS-Melodic-on-Raspberry-Pi-4-RPLIDAR/
 
 Tutorial to get started with ROS on Raspberry Pi 4:
+
 https://www.instructables.com/id/Getting-Started-With-ROS-Melodic-on-Raspberry-Pi-4/
 
 ROS Tutorials:
@@ -26,6 +29,7 @@ RVIZ is a 3D visualization tool that is supplemental to ROS applications. RVIZ i
 
 
 TurtleSim tutorial:
+
 http://wiki.ros.org/turtlesim#turtlesim_node
 
 http://wiki.ros.org/turtlesim/Tutorials
