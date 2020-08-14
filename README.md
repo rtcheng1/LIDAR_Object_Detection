@@ -28,11 +28,10 @@ What is RVIZ?:
 RVIZ is a 3D visualization tool that is supplemental to ROS applications. RVIZ is able to provide a view of a robot model, acquire data from sensors that are integrated into the system, and represent the acquired data. Sensors from devices that can capture 2D and 3D data.
 
 
-TurtleSim tutorial:
+TurtleSim
 
 http://wiki.ros.org/turtlesim#turtlesim_node
 
-http://wiki.ros.org/turtlesim/Tutorials
 
 What is TurtleSim?:
 
