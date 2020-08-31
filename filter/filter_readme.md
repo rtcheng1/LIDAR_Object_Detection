@@ -34,6 +34,8 @@ https://pypi.org/project/padasip/
 
 LiDAR Sample Data:
 
+https://gisgeography.com/top-6-free-lidar-data-sources/
+
 https://www.phoenixlidar.com/sampledata/
 
 https://greenvalleyintl.com/sample-data/
