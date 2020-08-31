@@ -39,3 +39,9 @@ https://www.phoenixlidar.com/sampledata/
 https://greenvalleyintl.com/sample-data/
 
 https://www.lidarusa.com/sample-data.html
+
+Waymo Open Dataset:
+
+https://colab.research.google.com/github/waymo-research/waymo-open-dataset/blob/master/tutorial/tutorial.ipynb
+
+https://github.com/waymo-research/waymo-open-dataset
