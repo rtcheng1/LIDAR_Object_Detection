@@ -56,3 +56,10 @@ Supplementary Goal(s):
 
 -Triangulation using LiDAR
 
+[Update]
+End of summer goals:
+- Learn more about the ROS through Turtlesim to better understand functionality and manipulation of vehicle and/or robot device (if applicable)
+- Understand RVIZ and the features for data acquisition
+- Create a proper 2D scan of basic household items that can be easily identified (may involve callibration)
+- Attempt to analyze output data to see what can be interpreted
+
