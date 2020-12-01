@@ -9,8 +9,11 @@ Create a virtual environment in any IDE of your choice (I utilized VSCode to set
 LiDAR file viewer - QGIS 3.10.11
 
 Algorithms to be experimented with:
+
 -YOLO (You Only Look Once)
+
 -SSD (Single Shot Detector)
+
 -R-CNN (Regional - Convolutional Neural Network)
 
 Current criteria to consider in the comparisons using the same item for comparison:
