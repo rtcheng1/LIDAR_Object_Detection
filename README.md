@@ -3,7 +3,6 @@
 # LIDAR_Object_Detection
 
 [![Python Version](https://www.python.org/download/releases/2.7/)](https://python.org)
-[![]()]()
 
 Preference: 
 Create a virtual environment in any IDE of your choice (I utilized VSCode to set my environment up)
