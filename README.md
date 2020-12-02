@@ -1,8 +1,9 @@
 # ***If tag is shown then readme is incomplete***
 
-# LIDAR_Object_Detection
+LIDAR_Object_Detection
+===
 
-[![Python Version](https://www.python.org/download/releases/2.7/)](https://python.org)
+[![Python Version](https://img.shields.io/badge/Python-2.7-brightgreen.svg)](https://python.org)
 
 Preference: 
 
@@ -12,20 +13,21 @@ LiDAR file viewer - QGIS 3.10.11
 
 Algorithms to be experimented with:
 
--YOLO (You Only Look Once)
+* YOLO (You Only Look Once)
 
--SSD (Single Shot Detector)
+* SSD (Single Shot Detector)
 
--R-CNN (Regional - Convolutional Neural Network)
+* R-CNN (Regional - Convolutional Neural Network)
 
 Current criteria to consider in the comparisons using the same item for comparison:
 
--Elapsed time
+* Elapsed time
 
--Objects recognized
+* Objects recognized
 
--Complexity of algorithm
+* Complexity of algorithm
 
 Notes:
+---
 
-OpenCV was utilized on Python 2.7 
+* OpenCV was utilized on Python 2.7 
