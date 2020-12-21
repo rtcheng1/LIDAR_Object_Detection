@@ -7,7 +7,7 @@ LIDAR_Object_Detection
 
 Preference: 
 
-Create a virtual environment in any IDE of your choice (I utilized VSCode to set my environment up)
+Create a virtual environment in any IDE of your choice (I utilized VSCode to set my environment up - [Example]: https://stackoverflow.com/questions/54106071/how-to-setup-virtual-environment-for-python-in-vs-code)
 
 LiDAR file viewer - QGIS 3.10.11
 
